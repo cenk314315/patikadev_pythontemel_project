@@ -1,6 +1,6 @@
 
 # patikadev_pythontemel_project
-###flatten
+### flatten
 
 Python ile programa girilen herhangi bir listenin tüm elemanlarınn <br>
 tek sıra halinde yeni bir liste oluşturulması.<br>
